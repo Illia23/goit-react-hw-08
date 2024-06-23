@@ -1,0 +1,30 @@
+/* HomePage.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.subheader {
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: #666;
+}
+
+.content {
+    font-size: 16px;
+    color: #444;
+    max-width: 600px;
+    line-height: 1.6;
+}

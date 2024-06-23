@@ -1,0 +1,14 @@
+.Register {
+    color: black;
+    text-decoration: none;
+}
+
+.LogIn {
+    color: black;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.active {
+    color: white;
+}

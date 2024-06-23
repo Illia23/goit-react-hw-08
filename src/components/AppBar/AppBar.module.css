@@ -1,0 +1,24 @@
+/* AppBar.module.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navigation {
+    flex-grow: 1;
+}
+
+.userMenu {
+    display: flex;
+    align-items: center;
+}
+
+.authNav {
+    display: flex;
+    align-items: center;
+}
