@@ -1,5 +1,5 @@
 import { useDispatch, } from 'react-redux';
-import { deleteContact } from '../../redux/contacts/operatoins';
+import { deleteContact } from '../../redux/contacts/operations';
 import styles from './Contact.module.css';
 import toast, { Toaster } from 'react-hot-toast';
 
